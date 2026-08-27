@@ -69,6 +69,18 @@ Responder esa pregunta requeriría salir de este dataset: investigar las empresa
 
 Por ahora, lo considero una señal que merece ser investigada, no una conclusión.
 
+### Distribución geográfica de las empresas de IA
+
+El mapa de burbujas muestra la concentración de empresas por país y región. El tamaño de cada burbuja representa la cantidad de empresas, y el color indica el continente.
+
+**Hallazgos clave:**
+- **América del Norte** concentra la mayor cantidad de empresas (1.074), liderada por Estados Unidos.
+- **Europa** es la segunda región en importancia (921), con Reino Unido y Polonia como hubs principales.
+- **Asia** destaca por India y China (755), con una presencia significativa en el ecosistema de IA.
+- Las regiones de Oceanía, América del Sur, Oriente Medio, África y Centroamérica completan el resto del ecosistema.
+
+![Distribución geográfica de empresas de IA 2022](images/bubble_map_ai_companies_2022.png)
+
 ---
 
 ## Qué permite —y qué no permite— concluir este análisis
