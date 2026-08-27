@@ -97,15 +97,16 @@ A lo largo del análisis intento mantener una distinción entre **evidencia, int
 
 ## Estructura del repositorio
 
-├── README.md # La historia del análisis
-├── README_technical.md # Metodología y decisiones técnicas
+```text
+├── README.md              # La historia del análisis
+├── README_technical.md    # Metodología y decisiones técnicas
 ├── notebooks/
-│ └── 1_understanding_2022_ai_landscape.ipynb
+│   └── 1_understanding_2022_ai_landscape.ipynb
 ├── data/
-│ └── AI_Companies_marce_con_categorias.csv
+│   └── AI_Companies_marce_con_categorias.csv
 └── images/
-└── Gráficos y visualizaciones seleccionadasnadas
-    
+    └── Gráficos y visualizaciones seleccionadas
+```
 ---
 
 ## Herramientas
