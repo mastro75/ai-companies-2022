@@ -58,7 +58,7 @@ Para eso construí tres dimensiones:
 
 A partir del rango de empleados informado por Clutch, clasifiqué las empresas en cuatro grandes grupos:
 
-![Tipo_proveedor_mercado_AI_2022](images/Tipo_proveedor_mercado_AI_20222.png)
+![Tipo_proveedor_mercado_AI_2022](images/Tipo_proveedor_mercado_AI_20222)
 
 Las **SMB dominan ampliamente la muestra**, pero no constituyen un grupo homogéneo.
 
