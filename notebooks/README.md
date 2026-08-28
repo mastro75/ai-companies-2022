@@ -1,0 +1,1 @@
+Esta carpeta contiene el archivo Understanding_2022_AI_Companies_Landscape.ipynb
