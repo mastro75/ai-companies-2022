@@ -40,7 +40,7 @@ Antes de analizarlo fue necesario explorar su calidad, limpiar información inco
 
 El proceso completo y las decisiones metodológicas están documentados en el **notebook**.
 
-**[Ver notebook](notebooks/Understanding_2022_AI_Companies_Landscape.ipynb ) →**
+[**Ver notebook →**](notebooks/Understanding_2022_AI_Companies_Landscape.ipynb).
 
 ---
 
