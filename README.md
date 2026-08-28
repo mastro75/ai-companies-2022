@@ -84,7 +84,7 @@ A partir de esa variable construí cuatro segmentos:
 El resultado muestra una fotografía interesante.
 
 
-![Foco_en_IA_empresas_2022(images/Foco_en_IA_empresas_2022.png)
+![Foco_en_IA_empresas_2022](images/Foco_en_IA_empresas_2022.png)
 
 **El 72,6% de las empresas se encontraba en las categorías complementaria o residual**, mientras que aproximadamente el **27,4%** mostraba un foco de IA igual o superior al 50%.
 
